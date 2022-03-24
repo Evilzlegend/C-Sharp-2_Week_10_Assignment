@@ -1,0 +1,40 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = CRUDDAApi
+build_property.RootNamespace = CRUDDAApi
+build_property.ProjectDir = C:\Users\Joshua\Source\Repos\Week 10\CRUDDAApi\CRUDDAApi\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Joshua\Source\Repos\Week 10\CRUDDAApi\CRUDDAApi
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Joshua/Source/Repos/Week 10/CRUDDAApi/CRUDDAApi/Views/DimCustomers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGltQ3VzdG9tZXJzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Joshua/Source/Repos/Week 10/CRUDDAApi/CRUDDAApi/Views/DimCustomers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGltQ3VzdG9tZXJzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Joshua/Source/Repos/Week 10/CRUDDAApi/CRUDDAApi/Views/DimCustomers/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGltQ3VzdG9tZXJzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Joshua/Source/Repos/Week 10/CRUDDAApi/CRUDDAApi/Views/DimCustomers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGltQ3VzdG9tZXJzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Joshua/Source/Repos/Week 10/CRUDDAApi/CRUDDAApi/Views/DimCustomers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGltQ3VzdG9tZXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Joshua/Source/Repos/Week 10/CRUDDAApi/CRUDDAApi/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 

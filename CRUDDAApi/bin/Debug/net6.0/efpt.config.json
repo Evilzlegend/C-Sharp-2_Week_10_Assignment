@@ -1,0 +1,155 @@
+﻿{
+   "CodeGenerationMode": 0,
+   "ContextClassName": "Adventureworksdw2019Context",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": "Data",
+   "OutputContextPath": "Data",
+   "OutputPath": "Models",
+   "ProjectRootNamespace": "CRUDDAApi",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "[dbo].[AdventureWorksDWBuildVersion]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[DatabaseLog]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[DimAccount]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[DimCurrency]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[DimCustomer]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[DimDate]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[DimDepartmentGroup]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[DimEmployee]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[DimGeography]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[DimOrganization]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[DimProduct]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[DimProductCategory]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[DimProductSubcategory]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[DimPromotion]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[DimReseller]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[DimSalesReason]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[DimSalesTerritory]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[DimScenario]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[FactAdditionalInternationalProductDescription]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[FactCallCenter]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[FactCurrencyRate]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[FactFinance]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[FactInternetSales]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[FactInternetSalesReason]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[FactProductInventory]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[FactResellerSales]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[FactSalesQuota]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[FactSurveyResponse]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[NewFactCurrencyRate]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ProspectiveBuyer]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": "DESKTOP-MHG1LKK.AdventureWorksDW2019",
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": true,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoConstructor": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSpatial": false
+}
